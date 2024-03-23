@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **different React projects**
 
-- 👨‍💻 All of my projects are available at [https://dev-abishek.vercel.app](https://dev-abishek.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://dev-abishek.vercel.app)
 
 - 💬 Ask me about **React, Node and tailwindcss**
 
 - 📫 How to reach me **abisheknewar15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NNSG_blImwruqTtImFjuaCOXDu61g5Y2/view?usp=sharing](https://drive.google.com/file/d/1NNSG_blImwruqTtImFjuaCOXDu61g5Y2/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NNSG_blImwruqTtImFjuaCOXDu61g5Y2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
