@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **different React projects**
+- 👯 I’m looking to collaborate on **different Web2.0 projects**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://dev-abishek.vercel.app)
 
