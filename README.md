@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abiinewar" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTux6jPU7mVrWg11a9vjZeltRgk0B7RDju_UUOkxyXNMA&s" alt="abiinewar" height="30" width="40" /></a>
+<a href="https://twitter.com/abiinewar" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Logo_of_Twitter.svg#/media/File:X_logo_2023.svg" alt="abiinewar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abishek-newar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abishek-newar" height="30" width="40" /></a>
 </p>
 
