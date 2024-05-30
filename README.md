@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abishek Newar</h1>
-<h3 align="center">I am a Full Stack Developer passionate about Front-end Development. I always aim to write optimal and smooth performing code. I'm excited to use new technologies for my projects</h3>
+<h3 align="center">Just another Ordinary wannabe Full Stack Developer. The One that aims to write optimal and smooth performing code. Just hyped to use new technologies for my projects</h3>
 
 - 🔭 I’m currently working on **my capabilities on different technologies**
 
