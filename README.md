@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **my capabilities on different technologies**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Web3**
 
 - 👯 I’m looking to collaborate on **different Web2.0 projects**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://dev-abishek.vercel.app)
 
-- 💬 Ask me about **React, Node and tailwindcss**
+- 💬 Ask me about **Website Development**
 
 - 📫 How to reach me **abisheknewar15@gmail.com**
 
