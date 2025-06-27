@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abishek Newar</h1>
-<h3 align="center">JUST CODING...</h3>
+<h3>JUST CHILLING.</h3>
 
 - 🔭 I’m currently working on **my capabilities on different technologies**
 
