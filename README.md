@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my capabilities on different technologies**
 
-- 🌱 I’m currently learning **GenAI**
+- 🌱 Curerntly Building **LaunchKit**
 
 - 👯 I’m looking to collaborate on **different Web2.0 projects**
 
