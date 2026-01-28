@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **my capabilities on different technologies**
 
-- 🌱 Curerntly Building **LaunchKit**
-
 - 👯 I’m looking to collaborate on **different Web2.0 projects**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://dev-abishek.vercel.app)
