@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abisheknewar15@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11JN1fEpm5zj_Kqv_fEvHA0bkZu7W1Nc9/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wp92pvY0eNvHvzADF9Meca31feU_LxWt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
